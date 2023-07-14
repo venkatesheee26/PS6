@@ -1,0 +1,8 @@
+D:\ps\PS6\PS6\bin\Debug\PS6.exe.config
+D:\ps\PS6\PS6\bin\Debug\PS6.exe
+D:\ps\PS6\PS6\bin\Debug\PS6.pdb
+D:\ps\PS6\PS6\obj\Debug\PS6.csproj.AssemblyReference.cache
+D:\ps\PS6\PS6\obj\Debug\PS6.csproj.SuggestedBindingRedirects.cache
+D:\ps\PS6\PS6\obj\Debug\PS6.csproj.CoreCompileInputs.cache
+D:\ps\PS6\PS6\obj\Debug\PS6.exe
+D:\ps\PS6\PS6\obj\Debug\PS6.pdb
